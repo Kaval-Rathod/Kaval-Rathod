@@ -1,20 +1,7 @@
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J2cjN0Z2JibXlscXh6cTU5YWY1M2JlaWp3MHU1dXBoMDNxZnk0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1e9XxAVmNoADidjLiI/giphy.gif" width="100%" height="200" style="" frameBorder="0" />
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am kaval    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <!-- Buy me a cofee -->
 <a href="https://www.buymeacoffee.com/my_name" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!-- wolf -->
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-
-<!-- Skills -->
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
-</a>
-<a href="mailto:i@blackcater.dev">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-</a>
-<a href="https://leetcode-cn.com/u/blackcater/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
 
 
 
